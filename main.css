@@ -1,0 +1,7 @@
+body{
+  background-color: black;
+  color: red;
+  text-align: center;
+  text-decoration: underline;
+  border: dashed solid 2em;
+}
